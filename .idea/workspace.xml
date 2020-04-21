@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ce4b9fd-de7b-434f-bd80-d8d0fb896a77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="ProjectId" id="1agN5XyC2gArcWNEWBVYieb0ADf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ce4b9fd-de7b-434f-bd80-d8d0fb896a77" name="Default Changelist" comment="" />
+      <created>1587153093566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587153093566</updated>
+      <workItem from="1587153099026" duration="8279000" />
+      <workItem from="1587203334272" duration="28155000" />
+      <workItem from="1587249631897" duration="1790000" />
+      <workItem from="1587287595189" duration="5596000" />
+      <workItem from="1587304717547" duration="163000" />
+      <workItem from="1587304995262" duration="1099000" />
+      <workItem from="1587306165603" duration="2235000" />
+      <workItem from="1587308526174" duration="3353000" />
+      <workItem from="1587315523159" duration="3615000" />
+      <workItem from="1587336198637" duration="602000" />
+      <workItem from="1587377608854" duration="10836000" />
+      <workItem from="1587461536342" duration="8228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1587220020580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1587220020580" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1587421551069">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587421551069" />
+    <state x="381" y="29" width="579" height="795" key="find.popup" timestamp="1587432296464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="381" y="29" width="579" height="795" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1587432296464" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587205180088">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587205180088" />
+  </component>
+</project>
